@@ -1,0 +1,59 @@
+1. 
+
+request positive number 
+
+if number is greater than zero
+	
+	request positive number again
+
+if number equals to zero
+
+	determine highest number input
+
+	print "highest number"
+
+2.
+
+request user's name
+
+store name as "first_name"
+
+print "first_name" "Hello World"
+
+3.
+
+choose a random number of integers
+	
+store the random number as "x"
+
+choose a random number of integers
+
+store the random number as "y"
+
+calculate the average of "x" and "y"
+
+4.
+
+read "grocery list"
+	
+rearrange items in list in alphabetical order
+
+request "items bought" from user and remove from "grocery list"
+
+if there are remaining items on the "grocery list"
+
+	print the item names as "remaining items"
+
+5.
+
+Read X, Y
+
+Store "S" = X + Y; "A" = S / 2; "P" = X * Y
+
+Print "S", "A", "P"
+	
+
+	
+	
+
+
