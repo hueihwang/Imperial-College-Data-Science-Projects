@@ -1,0 +1,33 @@
+1. Data are raw facts that have no meaning on itself. E.g. "Huei Hwang", "25", and "Lightning" are raw data that have no meaning until they are organised logically.
+2. Field is a single category of data. E.g. in database of students: "Name", "Age" and "Score" are fields
+3. Record are a collection of related fields that describe a single entity. E.g. in a student database, a record can be: Name: Huei Hwang, Age: 25, Score: 90
+4. Files are a collection of related records. E.g. in a student database, a file can be a collection of records of students
+
+DBMS
+
+DBMS is Database Management System. It is a software that is used to manage databases. It provides an interface for users to interact with the database. It also provides a way to store and retrieve data from the database. It also provides a way to manage the database, such as creating, updating, and deleting data.
+
+Advantages of DBMS
+1. Better data sharing - Many users can access the database simultaneously
+2. Data integration - It can improve the integration of data and ensure all users see the same, live updated data
+3. Data security - It can provide better security for data, such as encryption and access control
+4. Data consistency - It can ensure that data is consistent and accurate
+
+Differences between Data and Information
+1. Data is raw facts that have no meaning on itself. Information is data that has been processed and organised to have meaning
+2. Data is unprocessed, while information is processed
+3. Data is the input, while information is the output
+
+What is Metadata
+
+Metadata is data that describes other data. It describes the structure and properties of data. E.g. in a database, metadata can include:
+1. The names of the tables and fields
+2. The data types of the fields
+3. The relationships between tables
+4. The constraints on the data
+
+e) How many records does the file contain?
+4 Records
+
+f) How many fields are there per record?
+5 Fields (Project Code, Project Manager, Manager Phone, Manager Address, Project Bid Price)
